@@ -1,4 +1,4 @@
-let users = ['Diego','Gabriel', 'Olavo']
+let users = ['Diego','Gabriel', 'Olavo', 'Carlos']
 
 export function getUsers(){
   return users;
